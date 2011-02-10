@@ -1,0 +1,108 @@
+The following ports are currently installed:
+  autoconf @2.63_0+universal
+  autoconf @2.68_1 (active)
+  automake @1.10.2_0+universal
+  automake @1.11.1_0 (active)
+  bzip2 @1.0.5_2+universal
+  bzip2 @1.0.6_0+universal (active)
+  clisp @2.48_1
+  clisp @2.49_1 (active)
+  db46 @4.6.21_6+universal (active)
+  expat @2.0.1_0+universal
+  expat @2.0.1_1+universal (active)
+  fontconfig @2.6.0_2+macosx+universal
+  fontconfig @2.8.0_0+universal (active)
+  freetype @2.3.8_0+macosx+universal
+  freetype @2.4.4_0+universal (active)
+  gdbm @1.8.3_3+universal (active)
+  gettext @0.17_4+universal
+  gettext @0.18.1.1_2+universal (active)
+  ghostscript @9.00_5+universal (active)
+  gperf @3.0.4_0+universal (active)
+  help2man @1.36.4_1+universal
+  help2man @1.38.4_0+universal (active)
+  ImageMagick @6.4.9-6_0+q16+universal
+  ImageMagick @6.6.7-1_0+q16+universal (active)
+  jpeg @6b_3+universal
+  jpeg @8b_0+universal (active)
+  lcms @1.19_2+universal (active)
+  libffi @3.0.9_0+universal (active)
+  libiconv @1.12_2+universal
+  libiconv @1.13.1_0+universal (active)
+  libidn @1.19_0+universal (active)
+  libpaper @1.1.24_0+universal (active)
+  libpng @1.2.35_0+universal
+  libpng @1.4.5_0+universal (active)
+  libsigsegv @2.9_0
+  libsigsegv @2.9_0+universal (active)
+  libtool @2.2.6a_0+universal
+  libtool @2.4_0+universal (active)
+  libxml2 @2.7.3_0+universal
+  libxml2 @2.7.8_0+universal (active)
+  libyaml @0.1.3_0+universal (active)
+  m4 @1.4.12_1+universal
+  m4 @1.4.15_2+universal (active)
+  ncurses @5.7_0+universal
+  ncurses @5.7_1+universal (active)
+  ncursesw @5.7_0+universal
+  ncursesw @5.7_1+universal (active)
+  openssl @0.9.8j_0+universal
+  openssl @1.0.0a_0+universal
+  openssl @1.0.0c_0+universal (active)
+  p5-locale-gettext @1.05_0+universal
+  p5-locale-gettext @1.05_3+universal (active)
+  p7zip @9.13_1+universal (active)
+  perl5 @5.8.9_0 (active)
+  perl5.8 @5.8.9_2
+  perl5.8 @5.8.9_3 (active)
+  pkgconfig @0.23_1+universal
+  pkgconfig @0.25_2+universal (active)
+  python27 @2.7.1_1+universal (active)
+  rb-rmagick @2.9.0_0 (active)
+  readline @6.0.000_1+universal
+  readline @6.1.002_0+universal (active)
+  ruby @1.8.7-p72_2+thread_hooks+universal
+  ruby @1.8.7-p330_0+thread_hooks+universal (active)
+  ruby19 @1.9.2-p0_2+universal
+  ruby19 @1.9.2-p136_0+universal (active)
+  sqlite3 @3.7.5_0+universal (active)
+  tiff @3.8.2_2+darwin_9+macosx+universal
+  tiff @3.9.4_0+universal (active)
+  urw-fonts @1.0.7pre44_0 (active)
+  xorg-bigreqsproto @1.0.2_0
+  xorg-bigreqsproto @1.1.1_0 (active)
+  xorg-inputproto @1.5.0_0
+  xorg-inputproto @2.0.1_0 (active)
+  xorg-kbproto @1.0.3_0
+  xorg-kbproto @1.0.5_0 (active)
+  xorg-libice @1.0.5_0+universal
+  xorg-libice @1.0.7_0+universal (active)
+  xorg-libpthread-stubs @0.3_0 (active)
+  xorg-libsm @1.1.0_0+universal
+  xorg-libsm @1.2.0_0+universal (active)
+  xorg-libX11 @1.2_0+universal
+  xorg-libX11 @1.4.1_0+universal (active)
+  xorg-libXau @1.0.4_0+universal
+  xorg-libXau @1.0.6_0+universal (active)
+  xorg-libxcb @1.7_0+python27+universal (active)
+  xorg-libXdmcp @1.0.2_0+universal
+  xorg-libXdmcp @1.1.0_0+universal (active)
+  xorg-libXext @1.0.5_0+universal
+  xorg-libXext @1.2.0_0+universal (active)
+  xorg-libXt @1.0.5_1+universal
+  xorg-libXt @1.0.9_0+universal (active)
+  xorg-util-macros @1.2.1_1
+  xorg-util-macros @1.11.0_0 (active)
+  xorg-xcb-proto @1.6_0+python27 (active)
+  xorg-xcmiscproto @1.1.2_0
+  xorg-xcmiscproto @1.2.1_0 (active)
+  xorg-xextproto @7.0.5_0
+  xorg-xextproto @7.1.2_0 (active)
+  xorg-xf86bigfontproto @1.1.2_0
+  xorg-xf86bigfontproto @1.2.0_0 (active)
+  xorg-xproto @7.0.14_1
+  xorg-xproto @7.0.20_0 (active)
+  xorg-xtrans @1.2.3_0
+  xorg-xtrans @1.2.6_0 (active)
+  zlib @1.2.3_2+universal
+  zlib @1.2.5_0+universal (active)
